@@ -1,7 +1,6 @@
 #!/usr/bin/env ruby
 
 require_relative '../config/environment'
-require_relative '../players/human.rb'
 
 puts "Welcome to Tic Tac Toe!"
 game = Game.new
